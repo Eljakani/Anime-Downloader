@@ -1,7 +1,7 @@
 # Anime-Downloader
 This script allows you to get the download link of animes with Arabic subs
 1. You need python3 installed in your system.
-2. You need `requests` and `BeautifulSoup` module installed in your system, You can use `pip3 install <module_name>`
+2. You need `requests` and `BeautifulSoup4` module installed in your system, You can use `pip3 install <module_name>`
 3. Use it at your own risk!
 ## Usage exemple :
 After cloning the repository, you can directly execute the script as shown below :
