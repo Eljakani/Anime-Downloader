@@ -6,6 +6,6 @@ This script allows you to get the download link of animes with Arabic subs
 ## Usage exemple :
 After cloning the repository, you can directly execute the script as shown below :
 >python3 script.py
-
-![screenshot1](https://user-images.githubusercontent.com/59035087/128789303-9078492d-da0f-4ba3-bc39-1d356a6aa7a0.jpg)
-![screenshot2](https://user-images.githubusercontent.com/59035087/128789317-5cccc3fe-7f2d-4136-ba60-d7257e98d1df.jpg)
+![Screenshot from 2021-10-09 18-45-39](https://user-images.githubusercontent.com/59035087/136668963-7109493c-41b1-40e5-8238-7c5a2c351d55.png)
+![Screenshot from 2021-10-09 18-45-53](https://user-images.githubusercontent.com/59035087/136668969-39487c09-de51-476b-9e7f-ba6c8cdd6a0f.png)
+![Screenshot from 2021-10-09 18-46-04](https://user-images.githubusercontent.com/59035087/136668971-ae80651f-8cfe-4e0f-843f-6b5beee7acd3.png)
